@@ -5,7 +5,7 @@
   "dependencies": {
     "@mars/heroku-js-runtime-env": "^3.0.2",
     "auth0-js": "^9.10.2",
-    "auth0-lock": "^11.16.0",
+    "auth0-lock": "^11.33.0",
     "bootstrap": "^4.3.1",
     "history": "^4.9.0",
     "react": "^16.8.6",
